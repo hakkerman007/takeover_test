@@ -1,9 +1,1 @@
-<!DOCTYPE html>
-<html>
-<body>
 
-<h1>Subdomain Takeover Done By hakkerman007</h1>
-<p>This is my first subdomain takeover</p>
-
-</body>
-</html>
